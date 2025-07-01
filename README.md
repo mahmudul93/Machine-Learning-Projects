@@ -19,5 +19,3 @@ Each project is organized in its folder with code, datasets (or links), and docu
 - TensorFlow / Keras
 - Jupyter Notebooks
 
-## License
-This repository is licensed under the MIT License.

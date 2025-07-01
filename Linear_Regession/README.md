@@ -1,1 +1,1 @@
-
+This project demonstrates the implementation of Linear Regression using both closed-form solutions and Stochastic Gradient Descent (SGD) on real-world data. It includes data preprocessing, model training, evaluation using RMSE, and comparisons between different regression approaches. Implemented in Python using scikit-learn and NumPy.
